@@ -53,7 +53,6 @@ dct_nums(12,56,7,name='rama',age='21',edu='bsc.computers')
 scope of variables
 ------------------
 ex:
-
 def nums( num_2):
     num = 90
     print(num)
@@ -101,7 +100,7 @@ def any_(a,b):
 any_(8,56)    
 
 ex:
-'''
+
 def any_(num,num_2):
     print(num)
     print(num_2)
